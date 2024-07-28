@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\ParameterScanner\ParameterScanner\bin\Debug\ParameterScanner.dll
+C:\Users\krist\source\repos\ParameterScanner\ParameterScanner\bin\Debug\ParameterScanner.pdb
+C:\Users\krist\source\repos\ParameterScanner\ParameterScanner\obj\Debug\ParameterScanner.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\ParameterScanner\ParameterScanner\obj\Debug\ParameterScanner.g.resources
+C:\Users\krist\source\repos\ParameterScanner\ParameterScanner\obj\Debug\ParameterScanner.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\ParameterScanner\ParameterScanner\obj\Debug\ParameterScanner.dll
+C:\Users\krist\source\repos\ParameterScanner\ParameterScanner\obj\Debug\ParameterScanner.pdb
+C:\Users\krist\source\repos\ParameterScanner\ParameterScanner\obj\Debug\UserControl1.g.cs
+C:\Users\krist\source\repos\ParameterScanner\ParameterScanner\obj\Debug\ParameterScanner_MarkupCompile.cache
+C:\Users\krist\source\repos\ParameterScanner\ParameterScanner\obj\Debug\ParameterScanner_MarkupCompile.lref
+C:\Users\krist\source\repos\ParameterScanner\ParameterScanner\obj\Debug\UserControl1.baml
